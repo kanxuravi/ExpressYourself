@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "212969612864",
+    "firebase_url": "https://express-yourself-64721.firebaseio.com",
+    "project_id": "express-yourself-64721",
+    "storage_bucket": "express-yourself-64721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212969612864:android:47525f99497ed68d3fe1a5",
+        "android_client_info": {
+          "package_name": "com.example.expressyourself"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212969612864-1pa959h9njra78sr5kovg0atq5uca4ph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expressyourself",
+            "certificate_hash": "d7c66cc8c89a3ff289d7c63571608480f4ec113d"
+          }
+        },
+        {
+          "client_id": "212969612864-sjot8qf4s19vu41u89gncferqebebmnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcDGVCCCd3IMS_DnyMSMxJ-5RCR-9_U70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212969612864-sjot8qf4s19vu41u89gncferqebebmnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
